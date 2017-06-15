@@ -13,7 +13,7 @@ https://www.nuxeo.com/
 ## Dockerfile 使用方法
 
 ### 如何使用
-启动一个裸的nuxeo实例
+启动一个bare nuxeo实例
 ```
 $ docker run --name mynuxeo -p 8080:8080 -d nuxeo
 ```
